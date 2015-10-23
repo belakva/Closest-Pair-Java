@@ -1,4 +1,4 @@
-# ClosestPairProblem-Java
+# Closest-Pair-Java
 Closest Pair Problem in Java. Divide and Conquer style.
 Intellij IDEA Community Edition 14.1.5 project
 
